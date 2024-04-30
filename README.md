@@ -58,3 +58,6 @@ Afterwards, we created a gradio-app [https://www.gradio.app/] in the file "Webui
 Attention: If you want to use this gradio app, you have to enter your huggingface-token in line 6 in the document "webui.py".
 
 The gradio app runs on a local and public url. Copy the public url into your browser to access the webui.
+
+## Copyright
+We acknowledge that a significant portion of the code in this GitHub repository is derived from research conducted by a research team around Alina Buss at the Technical University of Munich. The work of Alina Buss and her research team has served as the foundation for the development of this software and formed the basis for the corresponding paper. 
