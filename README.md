@@ -1,5 +1,5 @@
 # Introduction
-This is the code that was used for the use-case example presented in the paper "Enhancing ML Model Interpretability: LLM-Powered Explainable AI Framework".
+This is the code that was used for the use-case example presented in the paper "XXX".
 
 # Setup
 The following document describes the initial setup steps.
